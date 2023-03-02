@@ -37,13 +37,13 @@ const Footer = () => {
         <h4>Contact Us</h4>
         <div className="footer-contact">
         <p>
-              <FaMapMarkerAlt /> &nbsp; Address: United States.
+              <FaMapMarkerAlt /> &nbsp; Address: Nairobi, Kenya.
             </p>
             <p>
-              <FaPhoneAlt /> &nbsp; Phone: +1230 123 1231.
+              <FaPhoneAlt /> &nbsp; Phone: +25412345678.
             </p>
             <p>
-              <FaFax /> &nbsp; Fax: +12342762178
+              <FaFax /> &nbsp; Fax: +25470965789;
             </p>
             <p>
               <FaEnvelope /> &nbsp; Email: info@MySpaceX.com
@@ -56,7 +56,7 @@ const Footer = () => {
         <div className="footer-box logo">
         <p id='logo'>MySpace<span>X</span></p>
         <p className="copyright">
-          &copy; Copyright 2022. MySpaceX.com
+          &copy; Copyright 2023. MySpaceX.com
         </p>
         </div>
       </div>
