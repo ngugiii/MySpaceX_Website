@@ -1,6 +1,6 @@
 # MYSPACEX Website
 
-This is a simple demo website for a messaging system
+This is a simple modern demo website for a messaging system
 
 # Tech Stack
 
@@ -19,3 +19,4 @@ This is a simple demo website for a messaging system
 # Link to website
 
 [MySpace-X ](https://myspace-x.netlify.app/ "MySpace-X Website").
+
